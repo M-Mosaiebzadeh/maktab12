@@ -1,4 +1,3 @@
-package maktab.Hafte12;
 
 import java.util.Scanner;
 
